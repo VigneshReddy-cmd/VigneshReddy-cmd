@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VigneshReddy-cmd
 - 👀 I’m interested in ...JAVA Application development
-- 🌱 I’m currently learning ... Spring Frame works
+- 🌱 I’m currently learning ... Android Studios
 - 💞️ I’m looking to collaborate on ... My new Project
 - 📫 How to reach me ... email : lingalavigneshreddy@gmail.com
 - 😄 Pronouns: ...
