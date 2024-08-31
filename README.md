@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VigneshReddy-cmd
 - 👀 I’m interested in ...JAVA Application development
 - 🌱 I’m currently learning ... Android Studios
-- 💞️ I’m looking to collaborate on ... My new Project based on Android Development using java
+- 💞️ I’m looking to collaborate on ... My new Project based on Networks
 - 📫 How to reach me ... email : lingalavigneshreddy@gmail.com
 - Ask me about c-programming,Data Structures,Java,DBMS....
 <!---
